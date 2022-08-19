@@ -1,6 +1,6 @@
 # Human-Activity-Classsifcation
 
-Human Activity Classification by Smartphone & Smartwatch Sensors :running_woman:
+Human Activity Classification by Smartphone & Smartwatch Sensors :running_woman: :standing_woman: :climbing_woman:
 
 This project is based on the data from WISDM Lab of Frodham University, NY - available from the UCI Machine Learning Repository
 https://archive.ics.uci.edu/ml/datasets/WISDM+Smartphone+and+Smartwatch+Activity+and+Biometrics+Dataset+
