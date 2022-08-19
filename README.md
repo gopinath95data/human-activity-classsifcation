@@ -7,7 +7,7 @@ https://archive.ics.uci.edu/ml/datasets/WISDM+Smartphone+and+Smartwatch+Activity
 
 :purple_circle: Model built on single layer lstm (~92% accuracy)
 
-:purple_circle: Note: This model specifically uses only the smartwatch accelerometer readings of the users since it would represent the hand motions of the users. A more robust, complex and accurate model may be built by combinig the accelerometer and gyroscope readings from both the smartphone and smartwatch
+:purple_circle: Note: This model specifically uses only the smartwatch accelerometer readings of the users since it would better represent the hand motions of the users. For the complete data visit the above UCI ML repo link. A more robust, complex and accurate model may be built by combinig the accelerometer and gyroscope readings from both the smartphone and smartwatch
 
 ### File and Folder description
 
