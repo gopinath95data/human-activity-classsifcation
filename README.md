@@ -1,1 +1,1 @@
-# human-activity-classsifcation
+# Human-Activity-Classsifcation
