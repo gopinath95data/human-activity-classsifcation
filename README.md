@@ -17,9 +17,7 @@ https://archive.ics.uci.edu/ml/datasets/WISDM+Smartphone+and+Smartwatch+Activity
 
 :clipboard: raw_data_preprocess.ipynb - preprocess raw data into full sequences categorized by actions
 
-:clipboard: generate_data - extract data as a specific sequence length and given number of samples
-:pencil2: tunable params:
-   sequence length: 80 in current model
-   samples per target: 200 in current sample
+:clipboard: generate_data - extract data as a specific sequence length and given number of samples.
+Tunable params :pencil2: sequence length: 80 in current model :pencil2: samples per target: 200 in current sample
 
 
