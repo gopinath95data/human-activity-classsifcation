@@ -11,15 +11,15 @@ https://archive.ics.uci.edu/ml/datasets/WISDM+Smartphone+and+Smartwatch+Activity
 
 :file_folder: raw_data - contains raw gyroscope and acceleromter readings from smartwatch and smartphone from 51 participants. In this project only the raw processed data in the subfolder "raw" is used.
 
-:file_folder: full sequence data - contains extracted data from 51 partiipants classified into their actions. Each sequence from a single user contains 3200 readings for 17 actions.
+:file_folder: full sequence data - contains extracted data from 51 participants classified into their actions. Each sequence from a single user contains 3200 readings for 17 actions.
 
 :file_folder: final data - the final train and test data for the model 
 
 :clipboard: raw_data_preprocess.ipynb - preprocess raw data into full sequences categorized by actions
 
 :clipboard: generate_data - extract data as a specific sequence length and given number of samples
-    :pencil2: tunable params:
-        sequence length: 80 in current model
-        samples per target: 200 in current sample
+:pencil2: tunable params:
+   sequence length: 80 in current model
+   samples per target: 200 in current sample
 
 
